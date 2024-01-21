@@ -1,7 +1,10 @@
 # Data-analysis_working-samples
 
-This repository contains some of my hand-on projects on data analysis. The goal is to familarize myself with the standard Python libraries in data science and machine learning, such as pandas, seaborn, numpy, and matplotlib. Meanwhile, it is a good exercise to get used to data preparation, data cleaning, and data engineering.
+This repository contains some of my hand-on projects on data analysis. Using standard Python libraries for data science, such as pandas, seaborn, numpy, and matplotlib. <br>
+Techniques involved: data cleaning, data analysis, data visualization, and of course Python programming.
 
-**1. Simple analysis for data scientists salaries - 2023 data set**
+**1. Data scientists salaries - The 2023 data set**
 The data set was obtained from Kaggle: https://www.kaggle.com/datasets/arnabchaki/data-science-salaries-2023. <br>
-Skill set: pandas, seaborn, data preparation, data analysis, data visualization
+
+**2. Air quality index (AQI)**
+The data set was obtained from Kaggle: https://www.kaggle.com/datasets/willianoliveiragibin/countries-poluation.
